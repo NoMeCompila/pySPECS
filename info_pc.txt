@@ -1,0 +1,36 @@
+========================================Nombre PC========================================
+Nombre de la PC: DESKTOP-MQNAP4D
+========================================Informacion IP========================================
+IP privada: 192.168.0.115
+IP publica: 181.171.99.200
+========================================SISTEMA========================================
+Arquitectura y SO: ('64bit', 'WindowsPE')
+Version: 10
+========================================Hardware========================================
+Tipo de maquina: AMD64
+Procesador: Intel64 Family 6 Model 58 Stepping 9, GenuineIntel
+cores fisicos: 4
+cores totales: 4
+========================================Memoria RAM========================================
+Memoria RAM  total: 7.96GB
+Memoria RAM usada: 6.80GB
+Memoria RAM disponible: 1.16GB
+========================================Memoria en Disco========================================
+=== Disco Local: C:\ ===
+Punto de montaje: C:\
+Tipo de archivo del sistema: NTFS
+Espacio total en disco: 111.16GB
+Espacio usado en disco: 95.10GB
+Espacio libre en disco: 16.07GB
+=== Disco Local: D:\ ===
+Punto de montaje: D:\
+Tipo de archivo del sistema: NTFS
+Espacio total en disco: 50.00MB
+Espacio usado en disco: 30.82MB
+Espacio libre en disco: 19.17MB
+=== Disco Local: E:\ ===
+Punto de montaje: E:\
+Tipo de archivo del sistema: NTFS
+Espacio total en disco: 830.56GB
+Espacio usado en disco: 581.21GB
+Espacio libre en disco: 249.35GB
