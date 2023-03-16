@@ -5,10 +5,6 @@ import psutil  # libreria para el manejo de memoria
 from io import open
 
 
-# abre el archivo con el nombre que se le indica en el primer parametro en caso
-# de que no exista entonces lo crea y en el segundo
-# parametro se le indica como se quiere abrir el archivo a = add w = write, r = read
-# Función para obtener el nombre de la maquina
 def nombrePC():
     nombre_PC = socket.gethostname()
     archivo.write("Nombre de la PC: " + nombre_PC)  # concatenar los archivos con el nombre de la pc
