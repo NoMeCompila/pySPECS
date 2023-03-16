@@ -13,14 +13,14 @@ cores fisicos: 4
 cores totales: 4
 ========================================Memoria RAM========================================
 Memoria RAM  total: 7.96GB
-Memoria RAM usada: 6.80GB
-Memoria RAM disponible: 1.16GB
+Memoria RAM usada: 6.39GB
+Memoria RAM disponible: 1.58GB
 ========================================Memoria en Disco========================================
 === Disco Local: C:\ ===
 Punto de montaje: C:\
 Tipo de archivo del sistema: NTFS
 Espacio total en disco: 111.16GB
-Espacio usado en disco: 95.10GB
+Espacio usado en disco: 95.09GB
 Espacio libre en disco: 16.07GB
 === Disco Local: D:\ ===
 Punto de montaje: D:\
